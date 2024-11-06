@@ -13,6 +13,8 @@
 
 ## 2. UNIX 시스템의 구성
 
+![UNIX_image](/images/UNIX_image.png)
+
 ### 커널(Kernel)
 - UNIX의 핵심적인 부분
 - 컴퓨터가 부팅될 때 주기억장치에 적재된 후 상주
