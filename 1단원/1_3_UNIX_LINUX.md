@@ -13,7 +13,7 @@
 
 ## 2. UNIX 시스템의 구성
 
-![UNIX_image](/images/UNIX_image.png)
+![UNIX_image](images/UNIX_image.png)
 
 ### 커널(Kernel)
 - UNIX의 핵심적인 부분
