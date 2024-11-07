@@ -44,5 +44,7 @@
 
 ### 도메인 네임(Domain Name)
 > 숫자로 된 IP주소를 이해하기 쉬운 문자 형태로 표현한 것
+
+![domain_name](images/domain_name.png)
 - 왼쪽에서 오른쪽으로 갈 수록 상위 도메인
 - 도메인을 IP주소로 변경하는 사스템을 DNS(Domain Name System)이라 하고 이 역할을 하는 서버를 DNS 서버라 함
