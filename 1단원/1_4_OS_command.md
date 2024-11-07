@@ -2,36 +2,29 @@
 - CLI와 GUI로 구분
 - CLI: 키보드 명령어로 직접 입력
 - GUI: 아이콘이나 메뉴를 선택하여 작업을 수행하는 그래픽 사용자 인터페이스
+<br>
 
-## Windows/UNIX 기본 명령어
-현재 경로 위치 <span style="color:red"> pwd </span> <span style="color:blue"> cd </span>
+## UNIX/Windows 기본 명령어
 
-디렉터리 이동 cd <path> cd <path>
 
-목록 표시 ls dir
-
-파일 열기 open type(only text file)
-
-명령어 도움말 man help
-
-파일 복사 cp cpoy *xcopy(숨겨진 파일 복사 가능 ) 
-
-파일 이동 mv move 
-
-파일 생성 touch <파일명> fsutil file createnew <파일명> <파일 길이(0)> 0 as bytes
-
-파일 삭제 rm del
-
-디렉토리 생성 mkdir mkdir/md
-
-디렉토리 삭제 rm -r [dir]  rmdir *rmdir /s dir == 완전 삭제 (휴지통 거치지 않는다) 
-
-파일, 디렉토리명 변경 mv rename
-
-최고 권한 실행 sudo (root 권한) 
-
-터미널 초기화 clear cls 
-
-현재 날짜 date date
-
-실행중인 프로세스 top tasklist
+|내용|UNIX/LINUX|Windows|
+|---|---|---|
+|파일 내용 표시|cat|type|
+|디렉토리 위치 변경|cd|cd|
+|파일 사용 허가 지정|chomd|-|
+|파일 소유자, 그룹 변경|chown|-|
+|파일 복사|cp|copy|
+|파일 삭제|rm|del|
+|파일 검색|find|-|
+|파일 검사, 보수|fsck|-|
+|PID로 프로세스 종료|kill|-|
+|이름으로 프로세스 종료|killall|-|
+|파일 목록 표시|ls|dir|
+|디렉토리 생성|mkdir|md|
+|디렉토리 삭제|rmdir|-|
+|파일 이동|mv|move|
+|실행중인 프로세스 표시|ps|-|
+|현재 디렉토리 경로 표시|pwd|-|
+|프로세스 및 메모리 사용현황 표시|top|-|
+|현재 접속한 사용자 표시|who|-|
+|파일 압축 및 압축 해제|tar|-|
