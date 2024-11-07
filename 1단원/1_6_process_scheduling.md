@@ -10,3 +10,5 @@
 
 ## 프로세스 상태 전이
 > 프로세스가 시스템 내에 존재하는 동안 프로세스의 상태가 변화하는 것을 의미
+
+![process_image](images/process_image.png)
