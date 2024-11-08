@@ -3,7 +3,7 @@ Craftsman Information Processing Study
 
 <br>
 
-## 1단원 [응용 SW 기초 기술 활용]
+## 1단원 <응용 SW 기초 기술 활용>
 ### 1. 운영체제 기초 활용
    1. 운영체제의 개념
    2. Windows
@@ -30,8 +30,8 @@ Craftsman Information Processing Study
    4. TCP/IP
 <br>
 
-## 2단원 프로그래밍 언어 활용
-### 1. <프로그래밍 언어의 종류>
+## 2단원 <프로그래밍 언어 활용>
+### 1. 프로그래밍 언어의 종류
    1. 라이브러리
    2. 객체지향 프로그래밍 언어
    3. 스크립트 언어
